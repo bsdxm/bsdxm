@@ -1,10 +1,10 @@
-- 👋 ${\color{green} Hi, I’m @bsdxm.}
-- 😊 ${\color{purple} My name is Ethan.}
-- 🙋 ${\color{yellow} I'm 11 Year old now.}
-- 🚩 ${\color{red} I'm from China.}
-- 👀 ${\color{blank} I’m interested in book, program, chess, football and basketball.}
-- 🏀 ${\color{orange} Who would like to play with me?}
-- 📘 ${\color{pink} I’m currently learning about news, science and technology.
-- 💻 ${\color{green} I'm makeing a project about C++. Would you like to make with me? Please write an email to me.
-- 📧  ${\color{purple} Email : ethan_mochujushi@outlook.com}
-- ${\color{blue} What is the purpose of the universe? Enjoy the joy of coding RP++ }
+- 👋 Hi, I’m @bsdxm.
+- 😊 My name is Ethan.
+- 🙋 I'm 11 Year old now.
+- 🚩 I'm from China.
+- 👀 I’m interested in book, program, chess, football and basketball.
+- 🏀 Who would like to play with me?
+- 📘 I’m currently learning about news, science and technology.
+- 💻 I'm makeing a project about C++. Would you like to make with me? Please write an email to me.
+- 📧 Email : ethan_mochujushi@outlook.com
+- What is the purpose of the universe? Enjoy the joy of coding RP++ 
