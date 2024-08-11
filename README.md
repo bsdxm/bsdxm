@@ -7,4 +7,4 @@
 - 📘 I’m currently learning about news, science and technology.
 - 💻 I'm makeing a project about C++. Would you like to make with me? Please write an email to me.
 - 📧 Email : ethan_mochujushi@outlook.com
-- 🌌 What is the purpose of the universe? Enjoy the joy of coding RP++ 
+- 🌌 What is the purpose of the universe? Enjoy the joy of coding! RP++ 
