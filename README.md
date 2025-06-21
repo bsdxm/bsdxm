@@ -1,5 +1,3 @@
-- 👋 Hi, I'm @bsdxm.
-- 😊 My name is Ethan.
-- 🙋 I'm 12 Year old now.
+- 👋 Hi, I'm @bsdxm,ethan.
 - 📧 Email : ethan_mochujushi@outlook.com
 - 🌌 What is the purpose of the universe? Enjoy coding! RP++ 
